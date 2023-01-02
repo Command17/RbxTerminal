@@ -35,7 +35,7 @@ To disable this run: ```settings set logMessagesEnabled false```
 
 ## Installation
 
-You can download it on [Roblox]() for 100 Robux
+You can download it on [Roblox](https://www.roblox.com/library/12004274656/) for 100 Robux
 
 or for free on [Github](https://github.com/Command17/RbxTerminal)!
 
