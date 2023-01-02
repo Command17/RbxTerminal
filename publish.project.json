@@ -1,0 +1,14 @@
+{
+    "name": "RbxTerminal",
+    "tree": {
+      "$className": "DataModel",
+  
+      "ServerStorage": {
+        "$className": "ServerStorage",
+
+        "RbxTerminal": {
+            "$path": "default.project.json"
+        }
+      }
+    }
+  }
